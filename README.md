@@ -11,6 +11,9 @@ This project is a Django REST API for managing invoices and their details. The A
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
+- [Deployment](#deployment)
+- [Conclusion](#conclusion)
+
 
 ## Features
 
@@ -150,3 +153,11 @@ For updating, use the same endpoint (`PUT /api/invoices/`) with the `invoice_num
 ### Response Structure
 
 On success, both `POST` and `PUT` requests will return the invoice object, including all associated details.
+
+## Deployment
+
+This project is deployed on Koyeb and is live at [Live Site](https://hushed-dredi-omkie-de266b00.koyeb.app) and can be tested by the above api endpoint.
+
+## Conclusion
+
+This Invoice Management API offers a scalable, maintainable solution for handling invoices and invoice details with efficient nested serialization, allowing easy integration into larger systems. The modular project structure and detailed setup guide provide a seamless development and deployment experience, making it suitable for real-world applications.
