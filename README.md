@@ -156,7 +156,7 @@ On success, both `POST` and `PUT` requests will return the invoice object, inclu
 
 ## Deployment
 
-This project is deployed on Koyeb and is live at [Live Site](https://hushed-dredi-omkie-de266b00.koyeb.app) and can be tested by the above api endpoint.
+This project is deployed on Koyeb and is live at [Live Site](https://hushed-dredi-omkie-de266b00.koyeb.app/api/invoices/).
 
 ## Conclusion
 
