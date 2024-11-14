@@ -75,8 +75,8 @@ This project is a Django REST API for managing invoices and their details. The A
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/invoice-management-api.git
-   cd invoice-management-api
+   git clone https://github.com/Omkie-111/Invoice.git
+   cd Invoice
    ```
 
 2. **Set up virtual environment**:
